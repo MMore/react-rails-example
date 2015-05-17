@@ -1,0 +1,13 @@
+{
+  "name": "ReactRailsTest",
+  "dependencies": {
+    "browserify": "~> 10.1.3",
+    "browserify-incremental": "~> 3.0.0",
+    "griddle-react": "^0.2.13",
+    "reactify": "^1.1.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  }
+}

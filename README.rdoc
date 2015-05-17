@@ -1,0 +1,8 @@
+== Example Rails App for React
+
+- Run `bundle install`
+- Run `npm install`
+- Run the app with `bundle exec rails s`
+- Open your browser: http://localhost:3000
+
+
